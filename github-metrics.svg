@@ -1446,7 +1446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nushell/nushell</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new type of shell</div>
@@ -1499,7 +1499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ziglang/zig</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</div>
@@ -1552,7 +1552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ceph/ceph</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ceph is a distributed object, block, and file storage platform</div>
@@ -2257,7 +2257,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2022, 15:49:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 16:46:18 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
