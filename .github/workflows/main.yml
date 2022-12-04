@@ -41,7 +41,7 @@ jobs:
           output_action: commit
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_fortune: yes
+          plugin_fortune: no
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
